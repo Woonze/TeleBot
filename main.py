@@ -3,7 +3,7 @@ from telebot import types
 import datetime
 import openpyxl
 
-bot = telebot.TeleBot('7139225514:AAHD-pFpnJe0MMaonS-_idnXeyvh9xh7kJ8');
+bot = telebot.TeleBot('YOUR_BOT');
 
 EXCEL_FILE_PATH = '/Users/woonze/desktop/Antonio.xlsx'
 
